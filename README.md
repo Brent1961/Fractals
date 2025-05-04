@@ -1,5 +1,5 @@
-# Fractals # Java # Timing Loop
-Create 3D fractal models using a timing loop
+# Fractals in Java using Netbeans
+Create 3D fractal OBJ models using a timing loop
 The Node class contains the timing loop. It is "set" to run at 60 fps (frames per second).
 The actual speed varies according to it's load. Lighlty loaded, it may run well over 100fps.
 Heavily loaded, it may run 20-30fps. The Node class calls a tick() method at 1000 times per
